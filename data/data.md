@@ -1,14 +1,14 @@
-# Dataset Details
+## Dataset Details
 
-## Dataset Source
+### Dataset Source
 The dataset used in this project is the **Genomics of Drug Sensitivity in Cancer (GDSC)** dataset.  
 It can be accessed via Kaggle or the official GDSC website:  
 - [Kaggle Link](https://www.kaggle.com/code/samiraalipour/genomics-of-drug-sensitivity-in-cancer)  
 - [Official GDSC Database](https://www.cancerrxgene.org/)
 
-## Detailed Column Descriptions
+### Detailed Column Descriptions
 
-### 1. `GDSC2-dataset.csv`
+#### 1. `GDSC2-dataset.csv`
 | Column | Description |
 |--------|--------------|
 | **DATASET** | Identifier for the specific GDSC dataset version. |
@@ -31,7 +31,7 @@ It can be accessed via Kaggle or the official GDSC website:
 | **RMSE** | Root Mean Square Error indicating curve fit quality. |
 | **Z_SCORE** | Standardized drug response score for cross-comparison. |
 
-### 2. `Cell_Lines_Details.xlsx`
+#### 2. `Cell_Lines_Details.xlsx`
 | Column | Description |
 |--------|--------------|
 | **Sample Name** | Unique cell line identifier. |
@@ -47,7 +47,7 @@ It can be accessed via Kaggle or the official GDSC website:
 | **Screen Medium** | Growth medium used for culturing. |
 | **Growth Properties** | Characteristics of cell growth in culture. |
 
-### 3. `Compounds-annotation.csv`
+#### 3. `Compounds-annotation.csv`
 | Column | Description |
 |--------|--------------|
 | **DRUG_ID** | Unique identifier for the drug. |
