@@ -6,7 +6,6 @@ We are using the **Genomics of Drug Sensitivity in Cancer (GDSC)** dataset from 
 
 This dataset links **drug response data (IC50 values)** with **genomic and tissue information** from various **cancer cell lines**, helping explore how genetics influence drug effectiveness.
 
----
 
 ## 2. Questions We Aim to Answer Through Visualization
 - How does **drug sensitivity** vary across **different cancer types and tissues**?  
@@ -14,7 +13,6 @@ This dataset links **drug response data (IC50 values)** with **genomic and tissu
 - What are the relationships between **genomic features** and **drug responses (IC50, AUC, Z-SCORE)**?  
 - Are there any **patterns or clusters** that indicate potential biomarkers for drug response?
 
----
 
 ## 3. Intended Audience
 The visualizations are primarily aimed at:
